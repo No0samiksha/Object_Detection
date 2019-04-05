@@ -1,0 +1,106 @@
+filename,width,height,class,xmin,ymin,xmax,ymax
+image_854.jpg,450,455,Round About,3,12,213,198
+image_854.jpg,450,455,Round About,239,10,450,201
+image_854.jpg,450,455,Round About,11,233,209,416
+image_623.jpg,1300,955,Horn Prohibited,634,134,951,415
+image_366.jpg,225,225,Parking,6,8,219,217
+image_984.jpg,1300,725,Pedestrian Crossing,398,19,1215,725
+image_981.jpg,200,200,Pedestrian Crossing,8,8,190,193
+image_7.jpg,230,219,Left Turn,20,23,211,195
+image_587.jpg,960,640,Bike,103,145,862,606
+image_447.jpg,810,453,person,310,13,522,453
+image_61.jpg,330,350,Stop,87,26,244,178
+image_682.jpg,500,500,Traffic Light,127,11,366,497
+image_621.jpg,494,329,Horn Prohibited,139,92,210,162
+image_621.jpg,494,329,car,238,150,375,250
+image_365.jpg,215,215,Parking,6,5,208,210
+image_506.jpg,512,512,Speed Limit,30,31,476,480
+image_508.jpg,600,400,Speed Limit,104,2,498,396
+image_853.jpg,1560,1668,Round About,355,358,1205,1205
+image_184.jpg,2446,2446,No Parking,38,8,2435,2446
+image_123.jpg,249,154,Right Turn,131,1,249,110
+image_244.jpg,400,400,U Turn Prohibited,35,51,367,364
+image_245.jpg,700,1080,U Turn Prohibited,64,54,643,632
+image_507.jpg,767,1024,Speed Limit,79,367,694,973
+image_183.jpg,500,500,No Parking,68,67,427,422
+image_122.jpg,222,227,Right Turn,1,1,221,225
+image_585.jpg,1170,1172,Bike,276,542,956,1085
+image_585.jpg,1170,1172,person,276,25,821,580
+image_303.jpg,2400,1800,car,281,424,2134,1318
+image_806.jpg,1300,957,Uneven Road,176,277,645,719
+image_809.jpg,512,512,Uneven Road,132,26,377,282
+image_306.jpg,1000,550,car,15,141,968,443
+image_125.jpg,225,225,Right Turn,15,15,208,209
+image_9.jpg,225,224,Left Turn,17,16,211,207
+image_450.jpg,1600,1311,person,18,15,884,1311
+image_583.jpg,1200,628,Bike,66,81,1089,612
+image_852.jpg,300,206,Round About,51,17,246,201
+image_850.jpg,600,400,Round About,71,4,549,400
+image_851.jpg,800,800,Round About,148,140,665,659
+image_65.jpg,1389,1500,Stop,204,151,1222,1309
+image_808.jpg,211,183,Uneven Road,47,1,210,151
+image_243.jpg,1300,1300,U Turn Prohibited,73,56,1217,1192
+image_584.jpg,2000,1333,Bike,824,168,2000,1325
+image_448.jpg,1920,1080,person,686,9,1732,1071
+image_449.jpg,749,1000,person,175,46,542,948
+image_62.jpg,320,320,Stop,6,2,320,319
+image_185.jpg,900,780,No Parking,60,6,831,780
+image_8.jpg,257,196,Left Turn,3,4,248,186
+image_10.jpg,181,279,Left Turn,3,1,181,175
+image_510.jpg,626,430,Speed Limit,26,22,303,298
+image_510.jpg,626,430,Speed Limit,327,23,600,296
+image_744.jpg,600,600,Two Way Traffic,74,50,529,467
+image_64.jpg,852,480,Stop,512,55,617,163
+image_683.jpg,308,432,Traffic Light,127,116,148,167
+image_683.jpg,308,432,Traffic Light,24,134,44,179
+image_913.jpg,570,426,Speed Hump,385,1,567,183
+image_913.jpg,570,426,car,1,118,140,273
+image_304.jpg,643,482,car,5,19,640,416
+image_745.jpg,600,325,Two Way Traffic,202,41,403,218
+image_745.jpg,600,325,Traffic Light,527,150,551,190
+image_745.jpg,600,325,Traffic Light,562,150,584,187
+image_745.jpg,600,325,car,166,219,199,253
+image_622.jpg,1300,1390,Horn Prohibited,73,62,1237,1235
+image_446.jpg,960,641,person,146,123,352,574
+image_446.jpg,960,641,person,568,144,815,641
+image_914.jpg,1181,779,Speed Hump,204,1,971,778
+image_66.jpg,900,900,Stop,5,8,892,900
+image_368.jpg,225,225,Parking,3,3,223,224
+image_367.jpg,225,225,Parking,11,11,215,213
+image_685.jpg,1578,1184,Traffic Light,169,272,376,386
+image_685.jpg,1578,1184,Traffic Light,600,272,814,379
+image_685.jpg,1578,1184,car,166,851,404,958
+image_685.jpg,1578,1184,car,414,862,535,948
+image_242.jpg,400,400,U Turn Prohibited,2,1,400,399
+image_743.jpg,864,1390,Two Way Traffic,51,83,795,657
+image_247.jpg,400,600,U Turn Prohibited,48,53,354,364
+image_982.jpg,1300,1300,Pedestrian Crossing,126,134,1156,1151
+image_910.jpg,450,320,Speed Hump,109,20,355,213
+image_681.jpg,346,506,Traffic Light,179,12,320,348
+image_983.jpg,720,720,Pedestrian Crossing,21,18,720,716
+image_305.jpg,350,220,car,27,20,321,197
+image_684.jpg,800,532,Traffic Light,455,172,546,415
+image_684.jpg,800,532,person,291,281,352,386
+image_684.jpg,800,532,person,22,258,150,412
+image_124.jpg,223,226,Right Turn,1,1,222,226
+image_985.jpg,800,800,Pedestrian Crossing,240,98,586,403
+image_625.jpg,1600,1200,Horn Prohibited,277,164,1259,1150
+image_246.jpg,265,265,U Turn Prohibited,1,1,263,264
+image_586.jpg,450,450,Bike,12,23,443,422
+image_742.jpg,457,406,Two Way Traffic,3,2,452,406
+image_308.jpg,3508,2481,car,27,990,3465,2313
+image_509.jpg,1300,1021,Speed Limit,256,42,1092,889
+image_126.jpg,225,225,Right Turn,1,5,225,214
+image_307.jpg,1280,720,car,24,216,866,647
+image_307.jpg,1280,720,car,896,247,1224,483
+image_63.jpg,720,720,Stop,152,30,577,479
+image_741.jpg,334,500,Two Way Traffic,127,194,197,260
+image_11.jpg,266,189,Left Turn,63,12,214,135
+image_182.jpg,200,201,No Parking,11,12,190,188
+image_807.jpg,288,300,Uneven Road,2,2,288,261
+image_912.jpg,480,480,Speed Hump,157,95,322,255
+image_186.jpg,552,552,No Parking,5,2,551,550
+image_810.jpg,250,202,Uneven Road,20,25,158,169
+image_364.jpg,162,199,Parking,16,23,147,149
+image_624.jpg,500,500,Horn Prohibited,19,22,482,478
+image_911.jpg,866,1390,Speed Hump,121,180,765,852
